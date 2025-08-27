@@ -1,0 +1,12 @@
+Step1.
+$ git init git_challenge
+
+Step2.
+git add hello_world.txt
+
+Step3.
+$ git commit -m "hello_world.txtを追加"
+$ git commit -m "日本語訳を追記"
+
+Step4.
+$ git log --oneline
