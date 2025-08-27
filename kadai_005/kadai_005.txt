@@ -1,9 +1,8 @@
 Step1.
-$ mkdir gitchallenge
-$ cd gitchallenge
-Step2.
-$ echo "" >> hello_world.txt
-Step3.
+$ mkdir git_challenge
+$ cd git_challenge
+$ git init
+Step2,3.
 $ echo "Hello, world!" >> hello_world.txt
 $ git add hello_world.txt
 $ git commit -m "hello_world.txtを追加"
